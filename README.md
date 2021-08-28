@@ -1,4 +1,4 @@
-Here is a backup of [Pd2 Shell](https://github.com/pd2-works/psh) project.
+Here is a backup of [Pd2 Shell](https://github.com/maxelblack/psh) project.
 
 The Kotlin part of Pd2 Shell is rewritten by Java codes.
 
